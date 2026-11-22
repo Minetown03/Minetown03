@@ -1,13 +1,15 @@
 # Daniele Minetto
 
-## About me
+**Business Administration student at the University of Eastern Piedmont**
 
-I'm a Business Administration student at the University of Eastern Piedmont (Università del Piemonte Orientale), Italy. I'm interested in how people decide what to build, how to spend limited resources and how to tell whether an idea works in practice.
+I’m interested in how teams decide what to build, make trade-offs with limited resources, and test whether an idea works in practice. My interests span business and finance, AI, and product design.
 
-## Featured project
+[LinkedIn](https://www.linkedin.com/in/daniele-minetto-633800187/)
 
-[Purgatory Post](https://github.com/Minetown03/Purgatory-Post) is my independent game design project. I turned the idea of a post office for the afterlife into a playable strategy game. I design the rules, write specifications and playtest the results, using AI to help implement and test changes. The project portfolio follows some of those decisions, including what I changed when a rule worked on paper but fell short in play.
+## Purgatory Post
 
-## Areas of interest
+Purgatory Post is an independent strategy game set in a post office in the afterlife. I design the rules, write specifications, and playtest each change. I use AI to help implement and test those specifications.
 
-Business and finance; technology and artificial intelligence; product design and development.
+[**Read the case study**](https://github.com/Minetown03/Purgatory-Post/blob/main/CASE-STUDY.md) · [Project overview](https://github.com/Minetown03/Purgatory-Post) · [Development roadmap](https://github.com/Minetown03/Purgatory-Post/blob/main/ROADMAP.md)
+
+<a href="https://github.com/Minetown03/Purgatory-Post/blob/main/ROADMAP.md"><img src="https://raw.githubusercontent.com/Minetown03/Purgatory-Post/main/concepts/roadmap/ministerial-archive.svg" alt="Illustrated roadmap for Purgatory Post" width="640"></a>
